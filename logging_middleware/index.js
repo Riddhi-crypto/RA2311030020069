@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = "PASTE_YOUR_ACCESS_TOKEN"
+TOKEN = "QkbpxH"
 
 def Log(stack, level, package, message):
     url = "http://20.207.122.201/evaluation-service/logs"
